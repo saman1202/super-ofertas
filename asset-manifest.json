@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/super-ofertas/static/css/main.8b0a324f.css",
+    "main.css": "/super-ofertas/static/css/main.e97f8e88.css",
     "main.js": "/super-ofertas/static/js/main.972c811f.js",
     "static/js/977.f0f94e27.chunk.js": "/super-ofertas/static/js/977.f0f94e27.chunk.js",
     "static/js/732.7a15ac56.chunk.js": "/super-ofertas/static/js/732.7a15ac56.chunk.js",
     "static/js/453.a5bf473d.chunk.js": "/super-ofertas/static/js/453.a5bf473d.chunk.js",
     "index.html": "/super-ofertas/index.html",
-    "main.8b0a324f.css.map": "/super-ofertas/static/css/main.8b0a324f.css.map",
+    "main.e97f8e88.css.map": "/super-ofertas/static/css/main.e97f8e88.css.map",
     "main.972c811f.js.map": "/super-ofertas/static/js/main.972c811f.js.map",
     "977.f0f94e27.chunk.js.map": "/super-ofertas/static/js/977.f0f94e27.chunk.js.map",
     "732.7a15ac56.chunk.js.map": "/super-ofertas/static/js/732.7a15ac56.chunk.js.map",
     "453.a5bf473d.chunk.js.map": "/super-ofertas/static/js/453.a5bf473d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b0a324f.css",
+    "static/css/main.e97f8e88.css",
     "static/js/main.972c811f.js"
   ]
 }
