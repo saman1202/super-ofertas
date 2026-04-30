@@ -157,7 +157,7 @@ body {
 /* ===== CARDS GRID ===== */
 .cards-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 180px));
+  grid-template-columns: repeat(auto-fill, minmax(240px, 280px));
   gap: 8px;
 }
 
@@ -186,7 +186,7 @@ body {
 }
 
 .oferta-model {
-  font-size: 3rem;
+  font-size: 1.3rem;
   font-weight: 900;
   text-transform: uppercase;
   line-height: 1.15;
@@ -269,7 +269,7 @@ body {
   }
 
   .cards-grid {
-    grid-template-columns: repeat(auto-fill, minmax(150px, 180px));
+    grid-template-columns: repeat(auto-fill, minmax(240px, 280px));
     gap: 8px;
   }
 
